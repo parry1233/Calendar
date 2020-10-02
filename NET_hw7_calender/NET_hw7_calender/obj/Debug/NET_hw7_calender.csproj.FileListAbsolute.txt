@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\NET_hw7_calender\NET_hw7_calender\bin\Debug\NET_hw7_calender.exe.config
+C:\Users\USER\source\repos\NET_hw7_calender\NET_hw7_calender\bin\Debug\NET_hw7_calender.exe
+C:\Users\USER\source\repos\NET_hw7_calender\NET_hw7_calender\bin\Debug\NET_hw7_calender.pdb
+C:\Users\USER\source\repos\NET_hw7_calender\NET_hw7_calender\obj\Debug\NET_hw7_calender.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\NET_hw7_calender\NET_hw7_calender\obj\Debug\NET_hw7_calender.Form1.resources
+C:\Users\USER\source\repos\NET_hw7_calender\NET_hw7_calender\obj\Debug\NET_hw7_calender.Properties.Resources.resources
+C:\Users\USER\source\repos\NET_hw7_calender\NET_hw7_calender\obj\Debug\NET_hw7_calender.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\NET_hw7_calender\NET_hw7_calender\obj\Debug\NET_hw7_calender.exe
+C:\Users\USER\source\repos\NET_hw7_calender\NET_hw7_calender\obj\Debug\NET_hw7_calender.pdb
